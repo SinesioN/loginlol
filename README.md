@@ -1,28 +1,48 @@
-Recriação da Tela de Login do League of Legends
-Bem-vindo ao repositório do projeto de recriação da tela de login do jogo League of Legends! Este projeto tem como objetivo recriar a interface de login do popular jogo da Riot Games utilizando tecnologias web modernas.
+# Projeto: Recriação da Tela de login do League of Legends
+Este projeto foi desenvolvido com o objetivo de recriar a tela de login do League of Legends (LoL) utilizando HTML, CSS e JavaScript. A ideia principal foi aprimorar minhas habilidades em desenvolvimento web, focando em técnicas de layout responsivo, estilização avançada e interatividade com JavaScript.
 
-Índice
-Visão Geral
-Funcionalidades
-Tecnologias Utilizadas
-Como Executar o Projeto
-Contribuição
-Licença
-Autores
-Visão Geral
-Este projeto visa recriar a tela de login do League of Legends de maneira fiel, proporcionando uma experiência visual similar à original. A intenção é que seja um exercício de aprendizado e demonstração de habilidades em desenvolvimento web, bem como uma base para estudos futuros sobre interfaces de usuário e design responsivo.
+## Tecnologias Utilizadas
 
-Funcionalidades
-Interface de usuário similar à tela de login do League of Legends.
-Campo para nome de usuário.
-Campo para senha.
-Botão de login.
-Design responsivo para diferentes tamanhos de tela.
-Feedback visual para campos obrigatórios e login inválido.
-Tecnologias Utilizadas
-HTML5: Estrutura básica do projeto.
-CSS3: Estilização da interface, incluindo flexbox e grid layout para responsividade.
-JavaScript: Funcionalidade dinâmica, validação de formulários e interação com o usuário.
-React (opcional): Para construção de componentes reutilizáveis e gerenciamento de estado (se aplicável).
-Bootstrap (opcional): Para facilitar o design responsivo e alguns componentes de interface.
-![Captura de tela 2024-06-23 184540](https://github.com/SinesioN/loginlol/assets/172314626/b5874200-762b-4669-b4cf-47d5f767349f)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="20" width="20" /> HTML5: Para estruturar o conteúdo da página.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="20" width="20" /> CSS3: Para estilizar a interface, utilizando Flexbox e Grid para o layout, além de transições e animações.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="20" width="20" /> JavaScript: Para adicionar interatividade e manipular o DOM.
+
+## Funcionalidades
+Layout Responsivo: A interface se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis, tablets e desktops.
+
+Interatividade: Campos de input que mudam de estilo ao receberem foco, botão de login habilitado apenas quando os campos são preenchidos corretamente.
+
+Autenticação Social: Botões de login para plataformas populares como Facebook, Google, Apple, Xbox e PlayStation.
+
+Estilização Avançada: Uso de variáveis CSS para cores, fontes e outros elementos estilísticos para garantir consistência e facilidade de manutenção.
+
+## Aprendizado
+Durante o desenvolvimento deste projeto, aprendi e pratiquei os seguintes conceitos:
+
+Estruturação semântica do HTML para melhor acessibilidade e SEO.
+
+Uso de CSS moderno, incluindo Flexbox e Grid, para criar layouts responsivos.
+
+Aplicação de transições e animações CSS para melhorar a experiência do usuário.
+
+Manipulação do DOM com JavaScript para adicionar interatividade aos elementos da página.
+
+## Como Executar o Projeto
+Clone este repositório:
+```bash
+git clone https://github.com/ylano/LoginLoL/tree/main
+```
+Navegue até o diretório do projeto:
+```bash
+cd seu-repositorio
+```
+Abra o arquivo index.html em seu navegador.
+
+## Capturas de Tela
+![DemoLoL](https://github.com/ylano/LoginLoL/assets/137581500/2e8bfb93-52e3-4f1d-9626-f4496ead658f)
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests com sugestões, correções ou melhorias.
+https://github.com/SinesioN/loginlol/deployments/github-pages
